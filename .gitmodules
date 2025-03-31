@@ -1,0 +1,45 @@
+[submodule "libft_42"]
+	path = libft_42
+	url = https://github.com/maaloum-yassine/libft_42
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/maaloum-yassine/ft_printf
+[submodule "Get-Next-Line"]
+	path = Get-Next-Line
+	url = https://github.com/maaloum-yassine/Get-Next-Line
+[submodule "So-Long"]
+	path = So-Long
+	url = https://github.com/maaloum-yassine/So-Long
+[submodule "Minitalk"]
+	path = Minitalk
+	url = https://github.com/maaloum-yassine/Minitalk
+[submodule "push_swap_42"]
+	path = push_swap_42
+	url = https://github.com/maaloum-yassine/push_swap_42
+[submodule "Minishell"]
+	path = Minishell
+	url = https://github.com/maaloum-yassine/Minishell
+[submodule "Philosophers-"]
+	path = Philosophers-
+	url = https://github.com/maaloum-yassine/Philosophers-
+[submodule "CPP_MODULES_42"]
+	path = CPP_MODULES_42
+	url = https://github.com/maaloum-yassine/CPP_MODULES_42
+[submodule "Cub3D"]
+	path = Cub3D
+	url = https://github.com/maaloum-yassine/Cub3D
+[submodule "ft_irc"]
+	path = ft_irc
+	url = https://github.com/maaloum-yassine/ft_irc
+[submodule "Inception"]
+	path = Inception
+	url = https://github.com/maaloum-yassine/Inception
+[submodule "Born2beroot"]
+	path = Born2beroot
+	url = https://github.com/maaloum-yassine/Born2beroot
+[submodule "Netpractice"]
+	path = Netpractice
+	url = https://github.com/maaloum-yassine/Netpractice
+[submodule "Transcendence_42"]
+	path = Transcendence_42
+	url = https://github.com/maaloum-yassine/Transcendence_42
